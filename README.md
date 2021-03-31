@@ -1,0 +1,2 @@
+# Lzy
+My first repository
